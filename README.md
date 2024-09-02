@@ -1,6 +1,6 @@
 # Duanyll's Scoop Bucket
 
-[![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml)
+[![Tests](https://github.com/duanyll/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/duanyll/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/duanyll/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/duanyll/scoop-bucket/actions/workflows/excavator.yml)
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer. This bucket contains manifests for my personal projects and other software that I use.
 
