@@ -5,7 +5,5 @@
     "url": "https://cdn.duanyll.com/bin/ncmengine/1.0.0.zip",
     "hash": "48D8E44D16CB78C878534B5880E226AE42A26031981BBD5BF786CAFE07AC4CBF",
     "license": "Proprietary",
-    "bin": [
-        "NCMEngine.exe"
-    ]
+    "bin": "NCMEngine.exe"
 }
